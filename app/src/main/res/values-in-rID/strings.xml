@@ -1377,7 +1377,7 @@ Rincian: %2$s"</string>
     <string name="opensource_licenses_search">Cari pustaka dan lisensi</string>
     <!-- Easter egg offered after seven taps on the version in the About dialog -->
     <string name="easter_egg_pill_title">Sebuah pilihan</string>
-    <string name="easter_egg_pill_message">Ambil pil biru dan iklan tetap di tempatnya. Ambil pil merah dan lihat seberapa dalam bytecode itu</string>
+    <string name="easter_egg_pill_message">Ambil pil biru dan iklan tetap di tempatnya, atau Ambil pil merah dan lihat seberapa dalam bytecode itu</string>
     <string name="easter_egg_pill_red">Pil merah</string>
     <string name="easter_egg_pill_blue">Pil biru</string>
     <string name="easter_egg_pill_red_toast">Latar belakang Matrix terbuka</string>

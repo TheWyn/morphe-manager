@@ -391,7 +391,7 @@ Aby uzyskać najlepszy efekt, zalecamy zmodyfikowanie &lt;b&gt;pełnego pliku AP
     <string name="home_dialog_unsupported_version_dialog_proceed">Kontynuuj mimo to</string>
     <string name="home_dialog_unsupported_version_compatible_versions">Obsługiwane wersje:</string>
     <string name="home_dialog_unsupported_version_unsupported_label">Nieobsługiwana</string>
-    <string name="home_version_copy">Kopiuj wersję</string>
+    <string name="home_version_copy">Skopiuj wersję</string>
     <string name="home_version_copied">Skopiowano wersję</string>
     <!-- "Build" here refers to a specific compiled version of the app (versionCode) -->
     <string name="home_dialog_unsupported_version_build">Kompilacja %s</string>
@@ -1226,7 +1226,7 @@ Wymagane są następujące wymiary obrazów:
     <string name="settings_system_export_debug_logs_export_failed">Nie udało się wyeksportować logów</string>
     <string name="settings_system_export_debug_logs_export_success">Wyeksportowano logi</string>
     <!-- Settings - System Tab - Files & Storage Section -->
-    <string name="settings_system_apks_size">Całkowity rozmiar: %s</string>
+    <string name="settings_system_apks_size">Łączny rozmiar: %s</string>
     <string name="settings_system_apks_delete_all_confirm">Spowoduje to trwałe usunięcie zapisanych plików APK</string>
     <string name="settings_system_apks_delete_selected_title">Usunąć wybrane pliki APK?</string>
     <string name="settings_system_apks_delete_selected_confirm">Spowoduje to trwałe usunięcie wybranych plików APK</string>
@@ -1478,7 +1478,7 @@ Wymagane są następujące wymiary obrazów:
     <string name="more_options">Więcej opcji</string>
     <string name="import_">Importuj</string>
     <string name="export">Eksportuj</string>
-    <string name="copy">Kopiuj</string>
+    <string name="copy">Skopiuj</string>
     <string name="copied_to_clipboard">Skopiowano do schowka</string>
     <string name="download">Pobierz</string>
     <string name="less">Mniej</string>
